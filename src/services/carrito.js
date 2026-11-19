@@ -3,7 +3,7 @@
 const { ErrorNegocio } = require('../errors');
 
 <<<<<<< HEAD
-const IVA = 0.18;
+const IVA = 0.19;
 =======
 const IVA = 0.19;
 >>>>>>> 3f648c36311228a7d7d17afc45be40af70cd52c3
